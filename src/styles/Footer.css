@@ -1,0 +1,14 @@
+footer {
+    height: 64px;
+    display: flex;
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+
+footer img {
+    width: 25px;
+    height: 25px;
+}
